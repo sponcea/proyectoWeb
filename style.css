@@ -4,6 +4,19 @@ body {
     
 }
 
+.elecciones {
+    background-color: aqua;
+}
+
+.fondo {
+ background-image: url("views/fondo_equipo.jpg");
+ background-color: #cccccc;
+ background-repeat: no-repeat;
+ background-size: 100%  ;
+ height: 250px;
+ width: auto;
+}
+
 #formulario {
     margin-left: auto;
     margin-right: auto;
