@@ -1,0 +1,39 @@
+.bloque {
+    /*border-style: dotted;*/
+    /*border-width: 0.5px;*/
+}
+
+a:hover {
+    background-color: red;
+}
+.elecciones {
+    background-color: aqua !important;
+}
+
+.bloque-noticias {
+    position: relative;
+    background-color: gray;
+}
+.bloque2 {
+    width: 50%;
+    float: left;
+
+    
+}
+.bloque1 {
+    width: 50%;
+    float: left;
+    background-color: brown;
+}
+.listas {
+    clear: both;
+}
+
+.elemento-bloque {
+    background-color: red;
+
+}
+
+.elemento-linea {
+    background-color: green;
+}
