@@ -1,0 +1,55 @@
+html {
+    font-size: 16px; /*1em=16px*/
+}
+
+#titulo {
+    color: green;
+}
+
+strong {
+    color: red;
+}
+
+span.destacado {
+    color: orange;
+}
+
+#subtitulo {
+    color: blue;
+}
+
+span.especial {
+    color: purple;
+}
+
+a { color:red;}
+
+a em {
+    color: blue;
+}
+
+/********ESTILOS PARA LA TABLA********/
+table, tr, th, td {
+    border: 0.1em solid #000000;
+    border-collapse: collapse;
+    padding:0,5em;
+}
+
+caption {
+    color: blue;
+}
+
+td {
+    color: green;
+}
+
+td strong {
+    color: #ffa500;
+}
+th {
+    color: red;
+}
+th.especial {
+    color: orange;
+}
+/********FIN ESTILOS PARA LA TABLA****/
